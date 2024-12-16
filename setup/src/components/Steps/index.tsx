@@ -3,7 +3,7 @@ import { IconMapPin, IconQrcode, IconTicket } from "@tabler/icons-react-native";
 
 import { s } from "./styles";
 
-import { Step } from "../Step";
+import { Step } from "./Step";
 
 export const Steps = () => {
   return (
